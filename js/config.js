@@ -83,10 +83,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/Lullaby of Deserted Hell.ogg", name: "Lullaby of Deserted Hell"},
-	{youtube: "j0PA0PX7lKo", name: "Corossia2"},
-	{youtube: "yHZfHPhNjXo", name: "Corossia1"},
-	{youtube: "-7VeTkLKdDw", name: "Corossia"}
+	{ogg: "songs/carpenter-brut-turbo-killer.ogg", name: "Turbo Killer"},
 ];
 
 /*Random music order?*/
@@ -101,9 +98,9 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Enjoy ",
-"Thanks",
-"For"
+"İyi Eğlenceler",
+"Serverda Kalite",
+"Akıl Gerek"
 ];
 
 /*Random message order?*/
